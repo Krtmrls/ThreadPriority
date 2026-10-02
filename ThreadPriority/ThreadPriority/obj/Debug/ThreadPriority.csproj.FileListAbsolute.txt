@@ -1,0 +1,10 @@
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe.config
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.exe
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\bin\Debug\ThreadPriority.pdb
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.AssemblyReference.cache
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Form1.resources
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.Properties.Resources.resources
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.GenerateResource.cache
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.exe
+C:\Users\moral\source\repos\ThreadPriority\ThreadPriority\obj\Debug\ThreadPriority.pdb
